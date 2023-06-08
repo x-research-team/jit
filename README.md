@@ -1,6 +1,6 @@
 # go-jit
 
-[![GoDoc](https://godoc.org/github.com/goccy/go-jit?status.svg)](https://pkg.go.dev/github.com/goccy/go-jit?tab=doc)
+[![GoDoc](https://godoc.org/github.com/x-research-team/jit?status.svg)](https://pkg.go.dev/github.com/x-research-team/jit?tab=doc)
 
 JIT compile library for Go
 
@@ -18,7 +18,7 @@ package main
 import (
   "fmt"
 
-  "github.com/goccy/go-jit"
+  "github.com/x-research-team/jit"
 )
 
 // func f(x, y, z int) int {
@@ -56,7 +56,7 @@ package main
 import (
   "fmt"
 
-  "github.com/goccy/go-jit"
+  "github.com/x-research-team/jit"
 )
 
 // func f() int {
@@ -93,6 +93,5 @@ func main() {
 # Installation
 
 ```
-go get github.com/goccy/go-jit
+go get github.com/x-research-team/jit
 ```
-

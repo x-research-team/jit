@@ -1,7 +1,7 @@
 package jit
 
 import (
-	"github.com/goccy/go-jit/internal/ccall"
+	"github.com/x-research-team/jit/internal/ccall"
 )
 
 type Value struct {

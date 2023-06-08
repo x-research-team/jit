@@ -1,3 +1,3 @@
-module github.com/goccy/go-jit
+module github.com/x-research-team/jit
 
-go 1.12
+go 1.20
